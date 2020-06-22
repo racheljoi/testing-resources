@@ -20,6 +20,8 @@ Heuristic Test Strategy Model: https://www.satisfice.com/download/heuristic-test
 
 Sources for test ideas: http://thetesteye.com/posters/TheTestEye_SourcesForTestIdeas.pdf
 
+Lena Wiberg's Would Heu-Risk-It cards (wrap-up post, with links at the bottom): https://testing.pejgan.se/2020/04/30/would-heu-risk-it-part-32-wrap-up-time/
+
 
 ### Things to Help:
 
