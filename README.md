@@ -44,6 +44,8 @@ Test Automation University: https://testautomationu.applitools.com/
 
 Mountain Goat Software (Agile & Scrum): https://www.mountaingoatsoftware.com/blog
 
+ISTQB (take with a grain of salt): https://www.istqb.org/
+
 
 ### Great Blogs:
 
