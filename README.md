@@ -40,8 +40,6 @@ Ministry of Testing forum: https://club.ministryoftesting.com/
 
 Association for Software Testing: https://www.associationforsoftwaretesting.org/ and their self-education wiki: http://whose.associationforsoftwaretesting.org/index.php?title=Main_Page
 
-ISTQB (take with a grain of salt): https://www.istqb.org/
-
 Test Automation University: https://testautomationu.applitools.com/
 
 Mountain Goat Software (Agile & Scrum): https://www.mountaingoatsoftware.com/blog
