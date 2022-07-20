@@ -22,6 +22,8 @@ Sources for test ideas: http://thetesteye.com/posters/TheTestEye_SourcesForTestI
 
 Lena Wiberg's Would Heu-Risk-It cards (wrap-up post, with links at the bottom): https://testing.pejgan.se/2020/04/30/would-heu-risk-it-part-32-wrap-up-time/
 
+Beren Van Daele's TestSphere cards: https://www.ministryoftesting.com/dojo/series/testsphere
+
 ### Things to Help:
 
 Pair testing: https://katrinatester.blogspot.com/2015/05/pair-testing.html
