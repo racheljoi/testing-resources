@@ -1,9 +1,11 @@
+# Testing Resources
+
 My curated list of testing resources that I find valuable
 
 General tips and tricks: https://club.ministryoftesting.com/t/99-things-you-can-do-to-become-a-better-software-tester/17923/9
 Ministry of Testing how-to (general): https://club.ministryoftesting.com/t/club-posts-to-help-you-get-started-with-software-testing-and-qa/17183
 
-**Testing Ideas:**
+### Testing Ideas:
 
 Things to try in branch acceptance testing and general exploratory testing: http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf
 
@@ -19,7 +21,7 @@ Sources for test ideas: http://thetesteye.com/posters/TheTestEye_SourcesForTestI
 
 Lena Wiberg's Would Heu-Risk-It cards (wrap-up post, with links at the bottom): https://testing.pejgan.se/2020/04/30/would-heu-risk-it-part-32-wrap-up-time/
 
-**Things to Help:**
+### Things to Help:
 
 Pair testing: https://katrinatester.blogspot.com/2015/05/pair-testing.html
 
@@ -29,7 +31,7 @@ Mind mapping: https://lisacrispin.com/2011/02/28/using-mind-maps-for-test-planni
 
 Behavior-Driven Development: https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ (series of blog posts)
 
-**Organizations:**
+### Organizations:
 
 Ministry of Testing forum: https://club.ministryoftesting.com/
 
@@ -41,7 +43,7 @@ Mountain Goat Software (Agile & Scrum): https://www.mountaingoatsoftware.com/blo
 
 ISTQB (take with a grain of salt): https://www.istqb.org/
 
-**Great Blogs:**
+### Great Blogs:
 
 Katrina Clokie's blog (easily my favorite): http://katrinatester.blogspot.com.au/
 
