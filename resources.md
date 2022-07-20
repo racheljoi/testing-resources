@@ -76,7 +76,7 @@ Agile Testing Condensed (Janet Gregory and Lisa Crispin): https://leanpub.com/ag
 
 A Practical Guide to Testing in DevOps (Katrina Clokie): https://leanpub.com/testingindevops
 
-### Videos
+### Videos:
 
 Explore It? Explore It! (Elisabeth Hendrickson): https://www.youtube.com/watch?v=9FKY1Is0lgs
 
