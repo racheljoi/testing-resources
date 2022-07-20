@@ -66,6 +66,20 @@ James Lyndsay's site: https://www.workroom-productions.com/toys/
 
 Restful Booker: https://restful-booker.herokuapp.com/
 
+### Books:
+
+Explore It! (Elisabeth Hendrickson): https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025
+
+Agile Testing (Janet Gregory and Lisa Crispin): https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468
+
+Agile Testing Condensed (Janet Gregory and Lisa Crispin): https://leanpub.com/agiletesting-condensed
+
+A Practical Guide to Testing in DevOps (Katrina Clokie): https://leanpub.com/testingindevops
+
+### Videos
+
+Explore It? Explore It! (Elisabeth Hendrickson): https://www.youtube.com/watch?v=9FKY1Is0lgs
+
 ### Conferences to Check Out:
 
 CAST: https://associationforsoftwaretesting.org/conference/
