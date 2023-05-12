@@ -8,7 +8,7 @@ Ministry of Testing how-to (general): https://club.ministryoftesting.com/t/club-
 
 ### Testing Ideas:
 
-Things to try in branch acceptance testing and general exploratory testing: http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf
+Things to try in branch acceptance testing and general exploratory testing: https://www.ministryoftesting.com/articles/ab1cd85c?s_id=14840912
 
 Asking questions during grooming and planning: https://agiletester.ca/wp-content/uploads/sites/26/2017/08/Feature-Chat-Sheet_v2-1.pdf
 
@@ -20,9 +20,9 @@ Heuristic Test Strategy Model: https://www.satisfice.com/download/heuristic-test
 
 Sources for test ideas: http://thetesteye.com/posters/TheTestEye_SourcesForTestIdeas.pdf
 
-Lena Wiberg's Would Heu-Risk-It cards (wrap-up post, with links at the bottom): https://testing.pejgan.se/2020/04/30/would-heu-risk-it-part-32-wrap-up-time/
+Lena Wiberg's Would Heu-Risk-It cards: https://pejgan.se/WHRI.htm
 
-Beren Van Daele's TestSphere cards: https://www.ministryoftesting.com/dojo/series/testsphere
+Beren Van Daele's TestSphere cards: https://www.ministryoftesting.com/testsphere
 
 ### Things to Help:
 
@@ -35,10 +35,6 @@ Mind mapping: https://lisacrispin.com/2011/02/28/using-mind-maps-for-test-planni
 Behavior-Driven Development: https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ (series of blog posts)
 
 ### Great Blogs, Sites, and Podcasts:
-
-Katrina Clokie's blog: http://katrinatester.blogspot.com.au/
-
-Katrina Clokie's list of resources: https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html
 
 James Thomas's blog: https://qahiccupps.blogspot.com/
 
@@ -57,6 +53,10 @@ Lisi Hocke's site: https://www.lisihocke.com/
 Angie Jones's site: http://angiejones.tech/
 
 Richard Bradshaw's blog: https://thefriendlytester.co.uk/
+
+Katrina Clokie's blog: http://katrinatester.blogspot.com.au/
+
+Katrina Clokie's list of resources: https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html
 
 The Testing Show podcast: https://qualitestgroup.com/insights/podcasts/
 
