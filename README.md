@@ -1,6 +1,6 @@
 # Testing Resources
 
-Curated by [Rachel Kibler](https://racheljoi.com) — Senior Quality Engineer, international keynote speaker, and Agile Testing Fellowship trainer.
+Curated by [Rachel Kibler](https://racheljoi.com) — Senior Quality Engineer, international keynote speaker, and consultant.
 
 This is the list I actually use and recommend to testers at all career stages. It skews toward context-driven, exploratory, and holistic approaches to testing rather than scripted or certification-focused material.
 
