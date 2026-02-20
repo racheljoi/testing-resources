@@ -12,7 +12,8 @@ Pull requests welcome — see [contributing notes](#contributing) below.
 
 - [Testing Ideas & Heuristics](#testing-ideas--heuristics) — where to find inspiration when you're stuck
 - [Things That Help](#things-that-help) — techniques and practices that make testing better
-- [Great Blogs, Sites & Podcasts](#great-blogs-sites--podcasts) — people worth following
+- [Great Blogs & Newsletters](#great-blogs--newsletters) — people worth following
+- [Podcasts](#podcasts) - podcasts that deserve a listen
 - [Testing Exercises](#testing-exercises) — hands-on practice challenges
 - [Books Worth Reading](#books-worth-reading) — the short list
 - [Videos](#videos) — recorded talks and tutorials
@@ -57,8 +58,8 @@ https://www.ministryoftesting.com/testsphere — another great card-based tool f
 
 ## Things That Help
 
-**Pair testing:**  
-https://katrinatester.blogspot.com/2015/05/pair-testing.html — Katrina Clokie's guide to collaborative testing
+**Testing AI:**  
+https://github.com/77QAlab/Manual-to-Automation-QA-Playbook-Tutorials - Tanvi Mittal's playbooks around automation and AI
 
 **Strong-style pair testing:**  
 https://medium.com/@maaret.pyhajarvi/the-driver-navigator-in-strong-style-pairing-2df0ecb4f657 — Maaret Pyhäjärvi on the driver-navigator pattern
@@ -69,11 +70,24 @@ https://lisacrispin.com/2011/02/28/using-mind-maps-for-test-planning/ — Lisa C
 **BDD 101 series:**  
 https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ — Andy Knight's excellent intro to behavior-driven development for testers
 
+**Katrina Clokie's resource list for non-testers:**  
+https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html - getting started in software testing
+
 ---
 
-## Great Blogs, Sites & Podcasts
+## Great Blogs & Newsletters
 
-**James Thomas:** https://qahiccupps.blogspot.com/ — thoughtful testing commentary
+**Callum Akehurst-Ryan:** https://cakehurstryan.com/ - fantastic look at modern quality engineering
+
+**Dan Ashby:** https://danashby.co.uk/ - "blethering about testing", really great material about leadership and testing
+
+**Cassandra HL:** http://www.cassandrahl.com/ - thoughtful approach to testing
+
+**Jit Gosai:** https://qualityeng.substack.com/ - newsletter about what's going on in quality engineering
+
+**Judy Mosley:** https://failureisfeedback.beehiiv.com/ - regular writing about testing and learning
+
+**Women in Testing newsletter:** https://womenintesting.beehiiv.com/ - regular contributions by many about testing
 
 **Maaret Pyhäjärvi:** https://maaretp.com/ — exploratory testing, testing leadership, ensemble testing
 
@@ -85,17 +99,40 @@ https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ — Andy Knight'
 
 **Lisi Hocke:** https://www.lisihocke.com/ — exploratory testing, learning in public
 
+**James Thomas:** https://qahiccupps.blogspot.com/ — thoughtful testing commentary
+
 **Angie Jones:** http://angiejones.tech/ — test automation, Java, speaking
 
 **Richard Bradshaw:** https://thefriendlytester.co.uk/ — automation, testing philosophy (hasn't been updated in a while)
 
 **Katrina Clokie:** http://katrinatester.blogspot.com.au/ — testing craft, career development (hasn't been updated in a while)
 
-**Katrina Clokie's resource list for non-testers:**  
-https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html
+**Software Testing Weekly:** https://softwaretestingweekly.com/ - excellent newsletter that brings together the best writing each week
+
+--
+
+## Podcasts
+
+**Testing Peers podcast:** 
+https://testingpeers.com/ - mostly weekly podcast about all things testing and quality
+
+**Engineering Quality podcast:**
+https://www.engineeringqualitypodcast.com/home - regular episodes about leadership and quality
+
+**Donkeys and Dragons podcast:**
+https://www.youtube.com/playlist?list=PLiiSUBKIvibQK1oEpvFcU0NEKT9RqKTN1 - Janet Gregory and Lisa Crispin's podcast
+
+**The Vernon Richard Show:**
+https://thevernonrichardshow.com/ - engaging banter about testing
+
+**Quality Talks podcast:**
+https://qualitytalks.co.uk/podcast - regular episodes about quality
+
+**Software Testing Unleashed:**
+https://www.richard-seidl.com/en/testing-unleashed - great conversations with giants in the industry
 
 **The Testing Show podcast:**  
-https://qualitestgroup.com/insights/podcasts/ — weekly testing discussion
+https://qualitestgroup.com/insights/podcasts/ — weekly testing discussion (currently inactive, but great back catalog)
 
 ---
 
@@ -159,6 +196,9 @@ https://club.ministryoftesting.com/ — active community with discussions, artic
 **Association for Software Testing:**  
 https://www.associationforsoftwaretesting.org/ — professional organization for testers  
 BBST courses (Black Box Software Testing): https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/
+
+**QA at the Point:**
+https://www.qap.dev/ - Utah-based meetup, but the Slack community is open to everyone (heavy on automation help)
 
 **Test Automation University:**  
 https://testautomationu.applitools.com/ — free courses on test automation
