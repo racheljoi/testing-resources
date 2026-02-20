@@ -33,13 +33,13 @@ https://club.ministryoftesting.com/t/club-posts-to-help-you-get-started-with-sof
 https://www.ministryoftesting.com/articles/ab1cd85c?s_id=14840912 — concrete test ideas for when you're staring at a feature and don't know where to start
 
 **Questions to ask during grooming and planning:**  
-https://agiletester.ca/wp-content/uploads/sites/26/2017/08/Feature-Chat-Sheet_v2-1.pdf — Janet Gregory's feature chat sheet for pulling out testable details early
+https://agiletester.ca/wp-content/uploads/2021/10/Feature-Chat-Sheet_v3.pdf — Janet Gregory's feature chat sheet for pulling out testable details early
 
 **"Naughty" strings for field validation testing:**  
 https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt — every weird input case you can think of, plus some you haven't
 
 **60 Powerful Heuristics:**  
-http://dojo-static.ministryoftesting.com/downloads/60PowerfulHeuristicseBook.pdf — Elisabeth Hendrickson's collection of testing shortcuts and rules of thumb
+https://www.ministryoftesting.com/articles/60-powerful-heuristics-to-bust-a-testing-groove-with-by-simon-knight — Simon Knight's collection of testing shortcuts and rules of thumb
 
 **Heuristic Test Strategy Model:**  
 https://www.satisfice.com/download/heuristic-test-strategy-model — James Bach's framework for thinking about what to test
@@ -75,8 +75,7 @@ https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ — Andy Knight'
 
 **James Thomas:** https://qahiccupps.blogspot.com/ — thoughtful testing commentary
 
-**Maaret Pyhäjärvi (Medium):** https://medium.com/@maaret.pyhajarvi  
-**Maaret Pyhäjärvi (personal site):** https://maaretp.com/ — exploratory testing, testing leadership, ensemble testing
+**Maaret Pyhäjärvi:** https://maaretp.com/ — exploratory testing, testing leadership, ensemble testing
 
 **Lisa Crispin:** https://lisacrispin.com/ — agile testing, holistic testing, collaboration
 
@@ -88,9 +87,9 @@ https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/ — Andy Knight'
 
 **Angie Jones:** http://angiejones.tech/ — test automation, Java, speaking
 
-**Richard Bradshaw:** https://thefriendlytester.co.uk/ — automation, testing philosophy
+**Richard Bradshaw:** https://thefriendlytester.co.uk/ — automation, testing philosophy (hasn't been updated in a while)
 
-**Katrina Clokie:** http://katrinatester.blogspot.com.au/ — testing craft, career development
+**Katrina Clokie:** http://katrinatester.blogspot.com.au/ — testing craft, career development (hasn't been updated in a while)
 
 **Katrina Clokie's resource list for non-testers:**  
 https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html
@@ -116,10 +115,10 @@ https://restful-booker.herokuapp.com/ — API designed for testing practice
 ## Books Worth Reading
 
 **Explore It! (Elisabeth Hendrickson):**  
-https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025 — the definitive guide to exploratory testing
+https://pragprog.com/titles/ehxta/explore-it/ — the definitive guide to exploratory testing
 
 **Agile Testing (Janet Gregory and Lisa Crispin):**  
-https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468 — comprehensive guide to testing in agile teams
+https://agiletester.ca/agile-testing/ — comprehensive guide to testing in agile teams
 
 **Agile Testing Condensed (Janet Gregory and Lisa Crispin):**  
 https://leanpub.com/agiletesting-condensed — shorter, updated version
@@ -144,11 +143,8 @@ https://associationforsoftwaretesting.org/conference/ — Conference of the Asso
 **Agile Testing Days (Germany):**  
 https://agiletestingdays.com/ — one of the largest European testing conferences
 
-**Agile Testing Days USA:**  
-https://agiletestingdays.us/
-
-**TestBash (various locations):**  
-https://www.ministryoftesting.com/events?event_type=testbash — Ministry of Testing's global series
+**MoTaCon (formerly TestBash):**  
+https://www.ministryoftesting.com/motacon — Ministry of Testing's annual conference
 
 **Testing Conferences list (Chris Kenst):**  
 https://testingconferences.org/ — comprehensive calendar of testing conferences worldwide
@@ -162,7 +158,6 @@ https://club.ministryoftesting.com/ — active community with discussions, artic
 
 **Association for Software Testing:**  
 https://www.associationforsoftwaretesting.org/ — professional organization for testers  
-Their self-education wiki: http://whose.associationforsoftwaretesting.org/index.php?title=Main_Page  
 BBST courses (Black Box Software Testing): https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/
 
 **Test Automation University:**  
