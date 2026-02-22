@@ -61,6 +61,8 @@ https://www.ministryoftesting.com/testsphere — another great card-based tool f
 **Testing AI:**  
 https://github.com/77QAlab/Manual-to-Automation-QA-Playbook-Tutorials - Tanvi Mittal's playbooks around automation and AI
 
+**Testing tool heuristics:** https://github.com/hci-lab-um/heuristics-for-test-tool-design/blob/main/README.md - Isabel Evans' research-driven heuristics to support designing, evaluating, and acquiring tools to help with testing
+
 **Strong-style pair testing:**  
 https://medium.com/@maaret.pyhajarvi/the-driver-navigator-in-strong-style-pairing-2df0ecb4f657 — Maaret Pyhäjärvi on the driver-navigator pattern
 
@@ -99,6 +101,8 @@ https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html 
 
 **Lisi Hocke:** https://www.lisihocke.com/ — exploratory testing, learning in public
 
+**Maria Kedemo:** https://mkedemo.wordpress.com/ - deep dives into testing
+
 **James Thomas:** https://qahiccupps.blogspot.com/ — thoughtful testing commentary
 
 **Angie Jones:** http://angiejones.tech/ — test automation, Java, speaking
@@ -109,30 +113,45 @@ https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html 
 
 **Software Testing Weekly:** https://softwaretestingweekly.com/ - excellent newsletter that brings together the best writing each week
 
---
+---
 
 ## Podcasts
 
-**Testing Peers podcast:** 
+**Testing Peers:** 
 https://testingpeers.com/ - mostly weekly podcast about all things testing and quality
 
-**Engineering Quality podcast:**
+**Engineering Quality:**
 https://www.engineeringqualitypodcast.com/home - regular episodes about leadership and quality
 
-**Donkeys and Dragons podcast:**
+**Donkeys and Dragons:**
 https://www.youtube.com/playlist?list=PLiiSUBKIvibQK1oEpvFcU0NEKT9RqKTN1 - Janet Gregory and Lisa Crispin's podcast
 
 **The Vernon Richard Show:**
 https://thevernonrichardshow.com/ - engaging banter about testing
 
-**Quality Talks podcast:**
+**Quality Unfiltered:** 
+https://www.youtube.com/@QualityUnfiltered - honest conversations about testing
+
+**Quality Talks:**
 https://qualitytalks.co.uk/podcast - regular episodes about quality
 
 **Software Testing Unleashed:**
 https://www.richard-seidl.com/en/testing-unleashed - great conversations with giants in the industry
 
-**The Testing Show podcast:**  
+**The Testing Show:**  
 https://qualitestgroup.com/insights/podcasts/ — weekly testing discussion (currently inactive, but great back catalog)
+
+**This Week in Quality:**
+https://www.ministryoftesting.com/podcasts/this-week-in-testing - Ministry of Testing weekly episode about all things testing
+
+**Into the MoTaverse:**
+https://www.ministryoftesting.com/podcasts/into-the-motaverse - Ministry of Testing more focused on technology and career growth
+
+**AB Testing:**
+https://www.moderntesting.org/ - modern testing conversations on a variety of topics
+
+**Beyond Quality:**
+https://www.youtube.com/playlist?list=PLNtskxLbZna6VDjH6hBhYm0mSZKPhX7Fi - research-based converstions about quality
 
 ---
 
