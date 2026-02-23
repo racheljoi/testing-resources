@@ -2,7 +2,7 @@
 
 Curated by [Rachel Kibler](https://racheljoi.com) — Senior Quality Engineer, international keynote speaker, and consultant.
 
-This is the list I actually use and recommend to testers at all career stages. It skews toward context-driven, exploratory, and holistic approaches to testing rather than scripted or certification-focused material.
+This is the list I use and recommend.
 
 Pull requests welcome — see [contributing notes](#contributing) below.
 
@@ -103,6 +103,8 @@ https://katrinatester.blogspot.com/2015/11/testing-for-non-testers-pathway.html 
 
 **Maria Kedemo:** https://mkedemo.wordpress.com/ - deep dives into testing
 
+**Jesper Ottosen:** https://www.o2sn.dk/ - collaboration, leadership, and learning
+
 **James Thomas:** https://qahiccupps.blogspot.com/ — thoughtful testing commentary
 
 **Angie Jones:** http://angiejones.tech/ — test automation, Java, speaking
@@ -151,7 +153,7 @@ https://www.ministryoftesting.com/podcasts/into-the-motaverse - Ministry of Test
 https://www.moderntesting.org/ - modern testing conversations on a variety of topics
 
 **Beyond Quality:**
-https://www.youtube.com/playlist?list=PLNtskxLbZna6VDjH6hBhYm0mSZKPhX7Fi - research-based converstions about quality
+https://www.youtube.com/playlist?list=PLNtskxLbZna6VDjH6hBhYm0mSZKPhX7Fi - research-based conversations about quality
 
 ---
 
@@ -188,6 +190,8 @@ https://leanpub.com/testingindevops — what testing looks like in modern contin
 
 **Explore It? Explore It! (Elisabeth Hendrickson):**  
 https://www.youtube.com/watch?v=9FKY1Is0lgs — talk on exploratory testing fundamentals
+
+*more to come*
 
 ---
 
