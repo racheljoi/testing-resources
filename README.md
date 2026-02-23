@@ -16,7 +16,7 @@ Pull requests welcome — see [contributing notes](#contributing) below.
 - [Podcasts](#podcasts) - podcasts that deserve a listen
 - [Testing Exercises](#testing-exercises) — hands-on practice challenges
 - [Books Worth Reading](#books-worth-reading) — the short list
-- [Videos](#videos) — recorded talks and tutorials
+- [Videos and Channels](#videos-and-channels) — recorded talks and tutorials
 - [Conferences](#conferences-to-check-out) — where testers gather
 - [Organizations & Communities](#organizations--communities) — groups worth joining
 
@@ -186,10 +186,19 @@ https://leanpub.com/testingindevops — what testing looks like in modern contin
 
 ---
 
-## Videos
+## Videos and Channels
 
 **Explore It? Explore It! (Elisabeth Hendrickson):**  
 https://www.youtube.com/watch?v=9FKY1Is0lgs — talk on exploratory testing fundamentals
+
+**CAST:**
+https://www.youtube.com/@AST_News - lots of videos from conferences going back to 2011
+
+**Øredev 2025 Quality Track playlist:**
+https://www.youtube.com/watch?v=vPYN1g8G4fg&list=PLOUKmSqExtAGGpOWNT4Z385e20stRBiZx - nine talks about testing from a dev conference in Sweden
+
+**HUSTEF:**
+https://www.youtube.com/@Hstqb_HTB - one of the largest testing conferences in Europe, their catalog is impressive
 
 *more to come*
 
